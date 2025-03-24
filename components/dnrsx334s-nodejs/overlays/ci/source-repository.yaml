@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: dnrsx334s-nodejs-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/dnrsx334s-nodejs
